@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning+;I+am++into+Deep+Learning+;I+am++into++Big+Data;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++Full++Stack+Developer;I+am++into++React+Js+;I+am++into+Three+Js !&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Social badges section -->
@@ -183,40 +183,7 @@ A sample of my recent articles:
 
 	
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- Icons: https://img.icons8.com -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 
 	
-	
-<!--- WORKING ON IT -->
-<!-- links to social media icons -->
 
-<!-- icons with padding -->
-
-<!--[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-<!--[1.1]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/twitter.png (Twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/linkedin.png (LinkedIn icon without padding)
-[4.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/instagram.png (Instagram icon without padding)
-[5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico (Sololearn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-<!--[1]: https://twitter.com/thenomaniqbal/
-[2]: https://github.com/thenomaniqbal/
-[3]: https://www.linkedin.com/in/thenomaniqbal/
-[4]: https://instagram.com/thenomaniqbal/
-[5]: https://www.sololearn.com/profile/14847321/
-
-[![Twitter][1.1]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5]. -->
