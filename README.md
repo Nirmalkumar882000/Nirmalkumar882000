@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmalkumar882000&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalkumar882000" /> </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nirmalkumar882000" alt="nirmalkumar882000" /></a> </p>
-
 - 🔭 I’m currently working on **Dream Games**
 
 - 📫 How to reach me **cmnirmalkumar2000@gmail.com**
